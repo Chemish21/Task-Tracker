@@ -30,5 +30,5 @@ Usage:
   example: list -id 1
 
 
-  Usage of other options
+  Usage of other options 
   examples: list -a, list -d, list -ud, list -ip
