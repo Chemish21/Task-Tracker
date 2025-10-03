@@ -10,7 +10,6 @@ Usage:
   example: add "Buy Groceries"
 
   delete:  delete a task.  Provide the id number of the task to be deleted.
-  
   example: delete 2, this would delete the task with an id of 2
 
   update:  update a tasks description.  Provide id number of desired task and then write new description.
