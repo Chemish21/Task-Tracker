@@ -19,8 +19,8 @@ Usage:
   list: Displays a task or tasks.  Tasks can be listed individually with '-id' or all with '-a'.  Note with '-id' you must provide the id of desired task.  Tasks can also be listed by status with '-d' for finished tasks, 
   '-ud' for unfinished tasks, and '-ip' for in-progress tasks.
   
-    Usage of '-id'
-    example: list -id 1, this lists task with id of 1.
+  Usage of '-id'
+  example: list -id 1, this lists task with id of 1.
 
-    Usage of other options
-    examples: list -a, list -d, list -ud, list -ip, lists by relevant status.
+  Usage of other options
+  examples: list -a, list -d, list -ud, list -ip, lists by relevant status.
