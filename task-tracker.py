@@ -13,8 +13,8 @@ def main():
     elif args.command == 'mark':
         tasks.mark_task(args.id, args.mark)
     elif args.command == 'list':
-        if args.identity:
-            tasks.list_one(args.identity)
+        if args.identify:
+            tasks.list_one(args.identify)
         if args.all:
             tasks.list_all()
         if args.done:
