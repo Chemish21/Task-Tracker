@@ -35,7 +35,7 @@ Usage:
 
   Usage of other options  
     **example**: 
-          list -a
-          list -d
-          list -ud
+          list -a,
+          list -d,
+          list -ud,
           list -ip
