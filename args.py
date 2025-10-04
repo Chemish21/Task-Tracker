@@ -29,10 +29,10 @@ mark_parser.add_argument('id', type=int, help='id of task to be marked')
 mark_parser.add_argument('mark', type=str, help='Write mark option, options: [1] todo [2] in-progress [3] done')
 
 #List
-list_parser.add_argument('-id', '--identity', type=int, help='List specific task based on id')
+list_parser.add_argument('-id', '--identify', metavar="task_id",type=int, help='List specific task based on id')
 list_parser.add_argument('-a', '--all', action="store_true", help='List all tasks')
 list_parser.add_argument('-d', '--done', action="store_true", help='List finished tasks')
-list_parser.add_argument('-ud', '--undone', action="store_true", help='List unfinished tasks')
+list_parser.add_argument('-ud', '--undone', action="store_true", help='List undone tasks')
 list_parser.add_argument('-ip', '--progress', action="store_true", help='List in-progress tasks')
 
 #Finalizing arguments
