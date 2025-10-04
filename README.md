@@ -2,7 +2,7 @@
 A Command Line Interface program to track tasks taken from suggested projects by roadmap.sh 
 source: https://roadmap.sh/projects/task-tracker
 
-**Commands**: There are five basic commands that can be done.  These are add, delete, update, mark, and list.  
+**Commands**: add, delete, update, mark, and list.  
 
 Usage:
   
