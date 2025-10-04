@@ -7,7 +7,7 @@ source: https://roadmap.sh/projects/task-tracker
 Usage:
   
   **add**:  add a task.  Simply type add and then write a description of the task to be added.  
-  example: 
+  example:   
           add "Buy Groceries"
 
 
