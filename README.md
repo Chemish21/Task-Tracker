@@ -21,7 +21,7 @@ Usage:
           update 1 "Buy Clothes"
 
 
-  **mark**:  Marks a tasks status.  The options are todo, in-progress, and done.  Must provide id of task and then write desired mark.  
+  **mark**:  Marks a tasks status.  The options are **todo**, **in-progress**, and **done**.  Must provide id of task and then write desired mark.  
     **example**: 
           mark 1 "todo"
 
