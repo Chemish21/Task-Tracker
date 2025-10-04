@@ -6,22 +6,22 @@ source: https://roadmap.sh/projects/task-tracker
 
 Usage:
   
-  **add**:  add a task.  Simply type add and then write a description of the task to be added.  
+  **add**:  Add a task.  Simply type add and then write a description of the task to be added.  
     **example**:
           add "Buy Groceries"
 
 
-  **delete**:  delete a task.  Provide the id number of the task to be deleted.  
+  **delete**:  Delete a task.  Provide the id number of the task to be deleted.  
     **example**: 
           delete 2
 
 
-  **update**:  update a tasks description.  Provide id number of desired task and then write new description.  
+  **update**:  Update a tasks description.  Provide id number of desired task and then write new description.  
     **example**: 
           update 1 "Buy Clothes"
 
 
-  **mark**:  marks a tasks status.  The options are todo, in-progress, and done.  Must provide id of task and then write desired mark.  
+  **mark**:  Marks a tasks status.  The options are todo, in-progress, and done.  Must provide id of task and then write desired mark.  
     **example**: 
           mark 1 "todo"
 
