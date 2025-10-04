@@ -8,7 +8,7 @@ Usage:
   
   **add**:  add a task.  Simply type add and then write a description of the task to be added.  
   example:   
-          add "Buy Groceries"
+            add "Buy Groceries"
 
 
   **delete**:  delete a task.  Provide the id number of the task to be deleted.  
