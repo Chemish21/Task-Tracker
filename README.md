@@ -1,5 +1,5 @@
 # Task-Tracker
-A Command Line Interface program to track tasks taken from suggested projects by roadmap.sh 
+A Command Line Interface program to track tasks taken from suggested projects by roadmap.sh  
 source: https://roadmap.sh/projects/task-tracker
 
 **Commands**: add, delete, update, mark, and list.  
