@@ -4,7 +4,7 @@ source: https://roadmap.sh/projects/task-tracker
 
 **Commands**: add, delete, update, mark, and list.  
 
-**Usage**:
+**Usage**: python3 mytask [command] [input]
   
   **add**:  Add a task.  Simply type add and then write a description of the task to be added.  
   **example**:  add "Buy Groceries"
